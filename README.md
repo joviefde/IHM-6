@@ -8,7 +8,7 @@ He elegido una web de fotografía como puede ser *Instagram* para poder realizar
 </p>
 
 <p align="center">
-  <img src="">
+  <img src="https://raw.githubusercontent.com/joviefde/IHM-7/main/movil_hecho.png">
 </p>
 
 
@@ -19,7 +19,7 @@ Y para la 2ª parte del proyecto de convertir una versión móvil en web me he f
 </p>
 
 <p align="center">
-  <img src="">
+  <img src="https://raw.githubusercontent.com/joviefde/IHM-7/main/web_hecho.png">
 </p>
 
 
