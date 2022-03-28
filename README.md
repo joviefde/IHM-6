@@ -1,10 +1,31 @@
-# IHM-6
-Un buen ejercicio es tomar proyectos que ya tengas en CSS y tratar de reescribirlos en SCSS
+# IHM-7
+Aquí transofrmaremos una aplicación movil en web y viceversa para mostrar como qudaría en el caso de cambiar de plataforma digital
+
+He elegido una web de fotografía como puede ser *Instagram* para poder realizar un cambio personalizado en el concepto del proyecto propuesto, ya que para realizar la aplicación móvil he visualizado la versión web de instagram y la hecho fiel al objetivo pero con detalles distintos para que sea una nueva "red social", llamada photo.
+
+<p align="center">
+	VERSIÓN MÓVIL
+</p>
+
+<p align="center">
+  <img src="">
+</p>
 
 
-Podremos un ejemplo de como quedaría el scss en nuestra versión móvil para una de las gamas de colores propuesta, en este caso hemos considerado el Blanco-Morado como buena opción y Twitter con su clásico Azul-Blanco(El 2º coleccionable cromático en nuestra tabla).
+Y para la 2ª parte del proyecto de convertir una versión móvil en web me he fijado en la versión personalizada de la red social creada [photo] y he creado una versión web de la misma a partir de esta 1ª móvil.
+
+<p align="center">
+	VERSIÓN WEB
+</p>
+
+<p align="center">
+  <img src="">
+</p>
 
 
-La presentación dela aplicación móvil se ve aquí:
-https://www.figma.com/proto/NyqyoQfk6QlhCjF0QUka9R/Blanco-Morado?node-id=66%3A87&scaling=min-zoom&page-id=0%3A1
 
+Como hemos podido ver en la imágenes adjuntas tenemos un ejemplo del inicio de apliación para ambas versiones con sus respectivos inicios de sesión o para registrarse,
+que en el web vendría con el inicio, y un buscador para ver fotos de lo que elijamos.
+
+Enlace al proyecto:
+https://www.figma.com/file/jfRJCEM3e1UdvAn3AqmdhH/IHM-7?node-id=0%3A1
